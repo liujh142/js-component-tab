@@ -39,7 +39,7 @@ var tab =  new Tab(document.quearySelector('.tab'))
 ```
 需要把用于绑定点击事件控制切换的按钮class设置为`tab-button`  
 同时用于tab切换的区域class设置为.tab  
-且容器内button和tab的数量需要保存一致
+且容器内button和tab的数量需要保存一致  
 ```
     <div class="tab-container">
         <div class="nav">
